@@ -28,8 +28,8 @@ Rotate the image
 
 ## Program:
 ```
-Developed By: Jegathish S
-Register Number:212221230041
+Developed By: KATHIRVEL.A
+Register Number:212221230047
 
 i)Original Image:
 # To show the original image and to find the shape of the image
@@ -105,29 +105,75 @@ cv2.destroyAllWindows()
 
 ```
 
+
+
+
 ## Output:
+
+
+
+
+
+
+###Original Image:
+
+
+
+![image](https://github.com/KathirvelAIDS/IMAGETRANSFORMATION/assets/94911373/6e0a8d21-702a-478d-a527-3553e7423753)
+
+
+
+
 ### i)Image Translation
-![output](or.png)
+
+
+![image](https://github.com/KathirvelAIDS/IMAGETRANSFORMATION/assets/94911373/d7363cf9-6139-4da4-a9b7-5c9193055cbf)
+
+
+
+
+
+
 ### ii) Image Scaling
-![output](2.png)
+
+
+![image](https://github.com/KathirvelAIDS/IMAGETRANSFORMATION/assets/94911373/e472f831-4560-4aa3-a25a-e9cbdb7ad6b9)
+
+
+
 
 ### iii)Image shearing
-![output](3.png)
-![output](4.png)
+
+
+![image](https://github.com/KathirvelAIDS/IMAGETRANSFORMATION/assets/94911373/f4ad548a-0274-4935-90e9-b3c72edb096c)
+
+
+
+
 
 ### iv)Image Reflection
-![output](5.png)
-![output](6.png)
+
+
+
+![image](https://github.com/KathirvelAIDS/IMAGETRANSFORMATION/assets/94911373/20eea4fe-b954-4581-bd98-5d704412fb01)
+
 
 
 ### v)Image Rotation
-![output](8.png)
+
+
+![image](https://github.com/KathirvelAIDS/IMAGETRANSFORMATION/assets/94911373/3a890086-fa11-4f9d-8c44-f9f30faa73ac)
+
 
 
 
 ### vi)Image Cropping
-![output](9.png)
 
+
+![image](https://github.com/KathirvelAIDS/IMAGETRANSFORMATION/assets/94911373/c23c9aa5-a1f9-4af1-ab0c-da885375b6b9)
+
+
+![image](https://github.com/KathirvelAIDS/IMAGETRANSFORMATION/assets/94911373/c60ab74e-7ff0-41ce-a380-3e025d6aab94)
 
 
 
